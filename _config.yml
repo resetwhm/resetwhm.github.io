@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '郑清的个人博客'
-description: 'If I were you.昵称郑清，全栈开发者，热爱技术&设计&分享。'
-keyword: '郑清, 郑清的个人博客, 郑清的博客, 后端, 前端开发, 个人博客, java，javascript, vuejs, nodejs, 设计，分享'
+title: '王红梅的个人博客'
+description: 'If I were you.昵称梅梅，全栈开发者，热爱技术&设计&分享。'
+keyword: '梅梅, 王红梅的个人博客, 郑清的博客, 后端, 前端开发, 个人博客, python，javascript, vuejs, nodejs, 设计，分享'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -25,7 +25,7 @@ footer:
   since: 2019
 
 # Author 配置博主信息
-author: '郑清'
+author: '王红梅'
 nickname: 'zhengqing'
 bio: '全栈开发者，热爱技术&设计&分享，简单乐观爱创造'
 avatar: '/assets/img/zhengqing.png'
@@ -34,7 +34,7 @@ avatar: '/assets/img/zhengqing.png'
 search: true
 
 # Night mode 夜间模式true or false
-nightMode: true
+nightMode: false
 
 # Comments 评论功能 true or false
 comments:
@@ -49,7 +49,7 @@ social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
-theme-color: 'default'  # pink or default
+theme-color: 'pink'  # pink or default
 
 # Post header background patterns (when the post no cover) 头图底纹: circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'food'
