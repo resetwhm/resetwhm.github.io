@@ -29,7 +29,7 @@ nickname: 'zhengqing'
 bio: '全栈开发者，热爱技术&设计&分享，简单乐观爱创造'
 avatar: '/assets/img/zhengqing.png'
 
-# Search
+# Search 开启文章搜索功能
 search: true
 
 # Night mode
@@ -48,7 +48,7 @@ social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
-theme-color: 'pink'  # pink or default
+theme-color: 'default'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'circuitBoard'
