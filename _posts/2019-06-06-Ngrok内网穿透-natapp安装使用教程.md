@@ -1,11 +1,7 @@
 ﻿---
 layout: post
-title: '【Ngrok内网穿透】- natapp安装使用教程.md'
-<!--subtitle: '或许是最漂亮的Jekyll主题'-->
+title: '【Ngrok内网穿透】-natapp安装使用教程'
 date: 2019-06-06
-categories: 技术
-<!--cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'-->
-tags: 微信开发
 ---
 
 **Ngrok**：可实现内网穿透（将内网的服务器映射到外网给别人访问）
