@@ -28,7 +28,7 @@ footer:
 author: 'lynne'
 nickname: 'whm'
 bio: '全栈开发者，热爱技术&设计&分享，简单乐观爱创造'
-avatar: 'https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E9%87%91%E6%89%80%E7%82%AB&step_word=&hs=0&pn=18&spn=0&di=44660&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3015283114%2C4071800063&os=4188485776%2C3461154975&simid=0%2C0&adpicid=0&lpn=0&ln=1400&fr=&fmq=1561606655261_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201709%2F17%2F20170917225944_5JAN8.jpeg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dbd9bcm8dn&gsm=0&rpstart=0&rpnum=0&islist=&querylist=&force=undefined'
+avatar: '/assets/img/1.jpeg'
 
 # Search 开启文章搜索功能
 search: true
