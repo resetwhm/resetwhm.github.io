@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '王红梅的个人博客'
-description: 'If I were you.昵称梅梅，全栈开发者，热爱技术&设计&分享。'
-keyword: '梅梅, 王红梅的个人博客, 郑清的博客, 后端, 前端开发, 个人博客, python，javascript, vuejs, nodejs, 设计，分享'
+title: 'lynne的个人博客'
+description: 'If I were you.昵称lynne，全栈开发者，热爱技术&设计&分享。'
+keyword: 'lynne, whm的个人博客, 后端, 前端开发, 个人博客, python，django,flask, 设计，分享'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -25,10 +25,10 @@ footer:
   since: 2019
 
 # Author 配置博主信息
-author: '王红梅'
-nickname: 'zhengqing'
+author: 'whm'
+nickname: 'lynne'
 bio: '全栈开发者，热爱技术&设计&分享，简单乐观爱创造'
-avatar: '/assets/img/zhengqing.png'
+avatar: ''
 
 # Search 开启文章搜索功能
 search: true
